@@ -1,0 +1,15 @@
+table, tr, th, td{
+    border: 1px solid blueviolet;
+
+}
+
+table{
+    width: 300px;
+    border: rgb(89, 184, 126) 2px dotted;
+}
+td{
+    background-color: cornflowerblue;
+}
+th{
+    background-color: cyan;
+}

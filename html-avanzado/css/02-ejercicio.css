@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(135, 251, 253);
+}
+h1{
+    text-align: center;
+}
+.p{
+    color: red;
+}
+
+
+b{
+    color: black;
+}
+table, tr, th, td{
+    border: 1px solid;
+   
+    
+}
+.n{
+    color: yellow;
+}
+
+table{
+    
+    margin:auto ;
+   
+}

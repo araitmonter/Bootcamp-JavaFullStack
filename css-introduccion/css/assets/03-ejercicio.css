@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(49, 97, 75);
+   
+}
+ h1{
+    font-size: 50px;
+    color: white;
+ }
+
+.blanco{
+    width: 500px;
+    height: 60px;
+    border: 5px solid black;
+    background-color: white;
+    margin-left: 350px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    
+}
+.roja{
+    width: 500px;
+    height: 70px;
+    border: 13px solid rgb(116, 6, 6);
+    background-color: rgb(170, 106, 63);
+    color: white;
+    margin-bottom: 15px;
+
+}
+.amarilla{
+    width: 500px;
+    height: 70px;
+    border: 5px solid rgb(179, 111, 2);
+    background-color: rgb(215, 218, 57);
+    color: white;
+    margin-left: 850px;
+    margin-bottom: 15px;
+}
+.azul{
+    width: 500px;
+    height: 70px;
+    border: 2px dotted rgb(30, 154, 255);
+    background-color: rgb(38, 38, 124);
+    color:white ;
+    margin-left: 350px;
+    margin-bottom: 15px;
+}

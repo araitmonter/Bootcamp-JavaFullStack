@@ -1,0 +1,37 @@
+ /*comentarios en CSS*/
+ .encabezado
+ {
+    font-size: 72px;
+    color: darkgoldenrod;
+    background-color: #5a4545;
+    text-align: center;
+    text-transform:lowercase;
+    /*text-transform: estilo de mayuscula minuscula, etc;*/
+    /*font-size: tamaño de fuente*/
+    /*medidas comunes: px, %, em, rem*/
+    /* background-color es para el color de fondo*/
+}
+body {
+    background-color: #382f2f;
+
+}
+
+#texto{
+    color: darkgray;
+    background-color: darksalmon;
+    font-size: 24px;
+    font-style: italic;
+}
+.texto{
+    color: cornflowerblue;
+    background-color: darkgoldenrod;
+}
+p{
+    color: blueviolet;
+    background-color: rgb(218, 101, 101) ;
+}
+p{
+    color: chocolate;
+    background-color: coral;
+}
+ 

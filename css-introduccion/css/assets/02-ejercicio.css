@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(198, 216, 240);
+}
+
+
+.comic{
+    font-family: "Comic Sans MS", Comic Sans, cursiva;
+    color: red;
+
+    
+}
+b{
+    color: rgb(170, 91, 18);
+}
+.p1{
+    color: orange;
+
+}
+i{
+    color: green;
+    background-color: honeydew;
+    font-family: cursive;
+    font-size: 14px;
+}
+h2{
+    font-family: monospace;
+    text-transform: uppercase;
+}
+
